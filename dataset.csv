@@ -1,0 +1,318 @@
+participant-id,experimenter,Expérience (1 peu d'expérience / 5 expert),Téléphone,OS,trial,block,Condition,WPM,Erreurs,Correct words,Keystrokes,remarques,Clavier préféré
+1,Thomas BOFFY,3,Galaxy S10 E,Android,1,1,Gesture,30,7,32,164,surpris de l'exactitude,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,2,2,Predictive,24,4,25,140,,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,3,3,Simple,62,1,56,312,,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,4,4,Gesture,27,2,27,143,surpris de l'exactitude,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,5,5,Predictive,33,4,26,200,,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,6,6,Simple,48,13,50,323,,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,7,7,Gesture,33,11,32,211,surpris de l'exactitude,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,8,8,Predictive,34,2,32,177,,Simple
+1,Thomas BOFFY,3,Galaxy S10 E,Android,9,9,Simple,55,7,59,308,,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,10,1,Simple,17,1,0,92,Fait avec une seule main,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,11,2,Gesture,6,3,5,45,Idem + Correction automatique activée car impossibilité d'obtenir les accents avec la gestuelle,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,12,3,Predictive,10,3,8,58,Idem,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,13,4,Gesture,10,2,12,62,Idem,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,14,5,Simple,11,2,9,68,Idem,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,15,6,Predictive,13,0,15,67,Idem,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,16,7,Simple,23,0,18,115,Idem,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,17,8,Gesture,12,3,13,67,Idem,Simple
+2,William CHAZOT,3,Xiaomi Redmi Note 8T,Android,18,9,Predictive,14,0,14,68,Idem,Simple
+3,Alexandre DEVILLERS,1,Moto G3,Android,19,1,Predictive,13,1,10,69,Un pouce (que le droit),Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,20,2,Simple,14,1,15,74,Un pouce (que le droit),Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,21,3,Gesture,2,6,2,30,Un pouce (que le droit) + Majuscules impromptues,Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,22,4,Simple,17,2,17,91,Un pouce (que le droit),Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,23,5,Predictive,14,1,12,74,Un pouce (que le droit),Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,24,6,Gesture,6,4,5,58,Un pouce (que le droit),Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,25,7,Predictive,16,1,13,84,Un pouce (que le droit) + Mot en feminin jamais proposé,Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,26,8,Simple,9,6,12,81,Double pouces,Predictive
+3,Alexandre DEVILLERS,1,Moto G3,Android,27,9,Gesture,7,3,6,49,Un pouce (que le droit),Predictive
+4,Solayman AYOUBI,2,Samsung Galaxy S9,Android,28,1,Gesture,19,1,17,99,nécessité d'appuyer sur l'espace,Simple
+4,Solayman AYOUBI,3,Samsung Galaxy S9,Android,29,2,Predictive,26,0,24,128,,Simple
+4,Solayman AYOUBI,3,Samsung Galaxy S9,Android,30,3,Simple,35,2,26,185,,Simple
+4,Solayman AYOUBI,3,Samsung Galaxy S9,Android,31,4,Predictive,13,3,13,93,clavier lent,Simple
+4,Solayman AYOUBI,2,Samsung Galaxy S9,Android,32,5,Gesture,13,3,8,79,contrairement au clavier précédent pas besoin d'appuyer sur l'espace,Simple
+4,Solayman AYOUBI,3,Samsung Galaxy S9,Android,33,6,Simple,34,1,26,172,,Simple
+4,Solayman AYOUBI,2,Samsung Galaxy S9,Android,34,7,Gesture,13,4,12,85,,Simple
+4,Solayman AYOUBI,3,Samsung Galaxy S9,Android,35,8,Predictive,20,0,18,100,,Simple
+4,Solayman AYOUBI,3,Samsung Galaxy S9,Android,36,9,Simple,35,0,32,176,,Simple
+5,Louis LEFEVRE,3,Honor 6x,android,37,1,Simple,8,2,6,43,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,38,2,Gesture,3,2,3,25,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,39,3,Predictive,9,0,9,43,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,40,4,Gesture,4,2,5,28,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,41,5,Simple,12,0,13,61,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,42,6,Predictive,17,0,15,85,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,43,7,Simple,10,2,12,59,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,44,8,Gesture,4,2,5,28,,Predictive
+5,Louis LEFEVRE,3,Honor 6x,android,45,9,Predictive,13,0,8,65,,Predictive
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,46,1,Predictive,13,0,12,64,le nombre de corrections augmente ,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,47,2,Simple,16,1,18,85,,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,48,3,Gesture,14,1,16,70,,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,49,4,Simple,14,1,13,77,,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,50,5,Predictive,10,1,9,57,,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,51,6,Gesture,15,0,10,76,meilleure efficacité,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,52,7,Predictive,12,0,13,61,,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,53,8,Simple,15,1,12,81,,Gestion
+6,Seyedeh Niloufar Ansari,3,Oppo A7,Android,54,9,Gesture,19,0,19,93,meilleure efficacité,Gestion
+7,Sylvain LA,2,Motorola,android,55,1,Gesture,5,18,4,117,détection des mots moins rapide que la vitesse d'écriture -> latence,Predictive
+7,Sylvain LA,2,Motorola,android,56,2,Predictive,15,4,12,92,,Predictive
+7,Sylvain LA,2,Motorola,android,57,3,Simple,17,4,14,105,taille du texte trop petite,Predictive
+7,Sylvain LA,2,Motorola,android,58,4,Predictive,15,5,11,91,,Predictive
+7,Sylvain LA,2,Motorola,android,59,5,Gesture,1,16,1,91,,Predictive
+7,Sylvain LA,2,Motorola,android,60,6,Simple,13,13,10,134,,Predictive
+7,Sylvain LA,2,Motorola,android,61,7,Gesture,13,10,11,116,,Predictive
+7,Sylvain LA,2,Motorola,android,62,8,Predictive,16,6,13,111,,Predictive
+7,Sylvain LA,2,Motorola,android,63,9,Simple,16,3,14,104,,Predictive
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,64,1,Simple,29,1,33,143,Mal à mettre les accents à la main,Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,65,2,Gesture,13,0,12,64,Mal avec des lettres qui sont côte à côte,Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,66,3,Predictive,15,0,16,75,Inutile avec mots courts,Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,67,4,Gesture,10,1,12,56,"Mal avec certains combinaison de mots avec apostrophe
+",Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,68,5,Simple,29,3,29,158,idem,Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,69,6,Predictive,19,0,16,96,Mal avec certains mots en pluriel,Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,70,7,Simple,26,0,23,128,Mal à corriger des long mots,Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,71,8,Gesture,15,0,17,77,Mal avec des homonymes,Gboard
+8,José VILLAMAR,3,Xiaomi RedmiS2,Android,72,9,Predictive,21,1,25,104,Parfois suite à choisir une prédiction et entrer un espace le mot n'est pas reconnu par l'application,Gboard
+9,Hedwin B.,2,Samsung galaxy J7,Android,73,1,Predictive,19,2,15,105,,
+9,Hedwin B.,2,,Android,74,2,Simple,29,1,27,,,
+9,Hedwin B.,2,,Android,75,3,Gesture,10,5,13,75,,
+9,Hedwin B.,2,,Android,76,4,Simple,31,5,30,165,,
+9,Hedwin B.,2,,Android,77,5,Predictive,26,2,24,141,,
+9,Hedwin B.,2,,Android,78,6,Gesture,10,6,12,75,,
+9,Hedwin B.,2,,Android,79,7,Predictive,20,1,30,105,,
+9,Hedwin B.,2,,Android,80,8,Simple,33,1,30,170,,
+9,Hedwin B.,2,,Android,81,9,Gesture,11,7,12,76,,
+10,Guillaume O.,3,nokia 7.2,Android,82,1,Gesture,19,3,20,106,,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,83,2,Predictive,33,4,34,176,espace ne valide pas le mot suggéré,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,84,3,Simple,29,7,28,178,,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,85,4,Predictive,46,1,41,231,espace ne valide pas le mot suggéré,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,86,5,Gesture,29,0,30,147,,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,87,6,Simple,35,1,27,184,,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,88,7,Gesture,24,3,22,134,,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,89,8,Predictive,42,3,38,219,espace ne valide pas le mot suggéré,Gboard
+10,Guillaume O.,3,nokia 7.2,Android,90,9,Simple,39,0,32,197,,Gboard
+11,Najib E,4,Oppo Pocco X3 NFC,Mi Ui 12.0.7,91,1,Simple,21,12,22,175,Légers bugs sur le site (obligé de réactualiser en plein milieu d'un essai),Predictive
+11,,1,Oppo Pocco X3 NFC,Mi Ui 12.0.7,92,2,Gesture,7,4,7,51,,Predictive
+11,,4,Oppo Pocco X3 NFC,Mi Ui 12.0.7,93,3,Predictive,28,3,28,156,,Predictive
+11,,1,Oppo Pocco X3 NFC,Mi Ui 12.0.7,94,4,Gesture,19,4,19,108,,Predictive
+11,,4,Oppo Pocco X3 NFC,Mi Ui 12.0.7,95,5,Simple,29,4,27,166,,Predictive
+11,,4,Oppo Pocco X3 NFC,Mi Ui 12.0.7,96,6,Predictive,33,6,35,191,,Predictive
+11,,4,Oppo Pocco X3 NFC,Mi Ui 12.0.7,97,7,Simple,30,2,24,175,,Predictive
+11,,1,Oppo Pocco X3 NFC,Mi Ui 12.0.7,98,8,Gesture,20,4,19,124,,Predictive
+11,,4,Oppo Pocco X3 NFC,Mi Ui 12.0.7,99,9,Predictive,35,4,28,193,,Predictive
+12,Najib E,5,HUAWEI P30,Android,100,1,Predictive,32,14,33,209,,Predictive
+12,,3.5,HUAWEI P30,Android,101,2,Simple,28,7,25,190,,Predictive
+12,,1,HUAWEI P30,Android,102,3,Gesture,0,13,0,81,Gesture est dur à appréhender / utiliser,Predictive
+12,,3.5,HUAWEI P30,Android,103,4,Simple,32,0,31,159,,Predictive
+12,,5,HUAWEI P30,Android,104,5,Predictive,44,2,35,234,,Predictive
+12,,1,HUAWEI P30,Android,105,6,Gesture,13,10,11,111,,Predictive
+12,,5,HUAWEI P30,Android,106,7,Predictive,41,4,36,231,,Predictive
+12,,3.5,HUAWEI P30,Android,107,8,Simple,38,1,40,196,,Predictive
+12,,1,HUAWEI P30,Android,108,9,Gesture,17,8,19,117,,Predictive
+13,Richard B,,,,109,1,Gesture,20,4,15,,,Simple
+13,Richard B,,,,110,2,Predictive,30,1,32,,,Simple
+13,Richard B,,,,111,3,Simple,29,4,33,,,Simple
+13,Richard B,,,,112,4,Predictive,31,2,35,,,Simple
+13,Richard B,,,,113,5,Gesture,13,4,14,,,Simple
+13,Richard B,,,,114,6,Simple,25,2,20,,,Simple
+13,Richard B,,,,115,7,Gesture,25,1,18,,,Simple
+13,Richard B,,,,116,8,Predictive,38,1,41,,,Simple
+13,Richard B,,,,117,9,Simple,35,3,36,,,Simple
+14,Pierre V,4,Huawei Mate 9,Android,118,1,Simple,37,0,29,,Accents difficile à saisir,Prédictive
+14,Pierre V,1,Huawei Mate 9,Android,119,2,Gesture,27,5,24,,ne connaissait pas avant,Prédictive
+14,Pierre V,5,Huawei Mate 9,Android,120,3,Predictive,38,2,37,,,Prédictive
+14,Pierre V,1,Huawei Mate 9,Android,121,4,Gesture,28,4,25,,,Prédictive
+14,Pierre V,4,Huawei Mate 9,Android,122,5,Simple,28,2,26,,,Prédictive
+14,Pierre V,5,Huawei Mate 9,Android,123,6,Predictive,36,1,31,,,Prédictive
+14,Pierre V,4,Huawei Mate 9,Android,124,7,Simple,34,4,30,,,Prédictive
+14,Pierre V,1,Huawei Mate 9,Android,125,8,Gesture,33,3,28,,,Prédictive
+14,Pierre V,5,Huawei Mate 9,Android,126,9,Predictive,32,2,28,,,Prédictive
+15,Pauline,3,Huawei Mate 20,Android,127,1,Predictive,22,1,19,113,,Simple
+15,Pauline,4,Huawei Mate 20,Android,128,2,Simple,27,5,26,148,mettre les accents fait perdre du temps,Simple
+15,Pauline,1,Huawei Mate 20,Android,129,3,Gesture,22,3,21,114,,Simple
+15,Pauline,4,Huawei Mate 20,Android,130,4,Simple,21,5,17,143,perte de temps sur les accents et caractères spéciaux,Simple
+15,Pauline,3,Huawei Mate 20,Android,131,5,Predictive,33,5,30,175,,Simple
+15,Pauline,1,Huawei Mate 20,Android,132,6,Gesture,23,0,19,117,difficulté à mettre les accents,Simple
+15,Pauline,3,Huawei Mate 20,Android,133,7,Predictive,29,7,31,156,,Simple
+15,Pauline,4,Huawei Mate 20,Android,134,8,Simple,19,8,18,135,,Simple
+15,Pauline,1,Huawei Mate 20,Android,135,9,Gesture,23,2,17,125,,Simple
+17,Nabil Lamrabet,2,Samsung S10,Android 10,145,1,Simple,21,1,17,108,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,146,2,Gesture,13,2,14,72,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,147,3,Predictive,23,2,19,124,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,148,4,Gesture,17,2,18,97,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,149,5,Simple,23,3,17,134,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,150,6,Predictive,19,4,23,107,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,151,7,Simple,21,4,22,135,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,152,8,Gesture,20,1,21,108,Aucune,Predictive
+17,Nabil Lamrabet,2,Samsung S10,Android 10,153,9,Predictive,21,8,22,146,Aucune,Predictive
+18,Maria Solomon,3,Samsung A5,Android ,154,1,Predictive,13,3,10,91,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,155,2,Simple,23,3,19,144,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,156,3,Gesture,15,2,11,79,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,157,4,Simple,25,4,21,160,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,158,5,Predictive,13,4,9,100,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,159,6,Gesture,19,2,17,80,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,160,7,Predictive,20,2,18,95,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,161,8,Simple,24,5,19,150,,GBoard
+18,Maria Solomon,3,Samsung A5,Android ,162,9,Gesture,17,3,14,80,,GBoard
+19,Imran Krimi,3,Sony Xperia XA2,Android,163,1,Gesture,8,9,6,79,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,164,2,Predictive,41,3,37,229,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,165,3,Simple,25,1,23,130,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,166,4,Predictive,41,8,24,179,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,167,5,Gesture,16,3,14,93,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,168,6,Simple,30,1,28,157,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,169,7,Gesture,17,5,16,116,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,170,8,Predictive,41,2,33,195,,Predictive
+19,Imran Krimi,3,Sony Xperia XA2,Android,171,9,Simple,28,2,26,146,,Predictive
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,172,1,Simple,26,2,21,128,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,173,2,Gesture,23,5,18,113,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,174,3,Predictive,13,4,15,66,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,175,4,Gesture,22,6,17,108,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,176,5,Simple,20,6,18,101,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,177,6,Predictive,13,7,11,63,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,178,7,Simple,19,4,15,97,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,179,8,Gesture,23,6,18,113,,Gestion
+20,Antoine Dulhoste,4,samsung galaxy Note9,Android,180,9,Predictive,14,7,12,64,,Gestion
+21,Shajjad,2,samsung galaxy S7,Android,181,1,Predictive,8,1,6,41,,Simple
+21,Shajjad,2,samsung galaxy S7,Android,182,2,Simple,14,4,17,70,,Simple
+21,Shajjad,2,samsung galaxy S7,Android,183,3,Gesture,8,0,8,42,,Simple
+21,Shajjad,3,samsung galaxy A12,Android,184,4,Simple,17,1,13,76,,Predictive
+21,Shajjad,3,samsung galaxy A12,Android,185,5,Predictive,20,0,18,100,,Predictive
+21,Shajjad,2,samsung galaxy A12,Android,186,6,Gesture,10,3,11,74,,Predictive
+21,Shajjad,,,,187,7,Predictive,,,,,,
+21,Shajjad,,,,188,8,Simple,,,,,,
+21,Shajjad,,,,189,9,Gesture,,,,,,
+22,Louis GUILLOTIN,3,Honor 6X,Android,190,1,Gesture,10,2,10,56,pouce droit,Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,191,2,Predictive,32,0,24,159,des fois c'est plus rapide d'écrire directement le mot,Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,192,3,Simple,23,8,26,136,complexe pour accents,Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,193,4,Predictive,15,4,12,92,index droit,Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,194,5,Gesture,33,3,27,184,des fois c'est plus rapide d'écrire directement le mot,Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,195,6,Simple,27,0,27,134,complexe pour accents,Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,196,7,Gesture,21,0,15,104,"indexs et pouces 
+Très bon pour deviner les mots mais reste très lent",Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,197,8,Predictive,31,1,32,159,des fois c'est plus rapide d'écrire directement le mot,Predictive
+22,Louis GUILLOTIN,3,Honor 6X,Android,198,9,Simple,42,0,37,210,complexe pour accents,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,199,1,Simple,22,4,25,141,Met pas d'accents/caractères spéciaux,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,200,2,Gesture,7,4,8,49,Pouce droit / Pas d'accents,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,201,3,Predictive,29,3,33,149,Aucune,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,202,4,Gesture,10,3,12,61,Aucune,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,203,5,Simple,30,4,34,159,Aucune,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,204,6,Predictive,24,6,28,138,Erreurs bêtes,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,205,7,Simple,26,3,30,135,Aucune,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,206,8,Gesture,11,7,14,15,Toujours les mêmes mots qui ne sont pas detéctés / Double caractère pas géré,Predictive
+23,Benoît ALCARAZ,3,Honor 9A,Android,207,9,Predictive,30,5,33,158,"Bug ""il y a""",Predictive
+24,Marie Jassigneux,,Samsung S8,Android,208,,Predictive,21,1,22,111,Beaucoup de petit mot que le clavier ne peut pas prévoir,simple
+24,Marie Jassigneux,,Samsung S8,Android,209,,Simple,28,1,25,142,compliqué pour les accents,simple
+24,Marie Jassigneux,,Samsung S8,Android,210,,Gesture,10,1,12,56,clavier ne détecte pas certain mot ,simple
+24,Marie Jassigneux,,Samsung S8,Android,211,,Simple,25,2,18,135,,simple
+24,Marie Jassigneux,,Samsung S8,Android,212,,Predictive,25,0,27,125,,simple
+24,Marie Jassigneux,,Samsung S8,Android,213,,Gesture,17,1,15,95,,simple
+24,Marie Jassigneux,,Samsung S8,Android,214,,Predictive,20,3,24,108,,simple
+24,Marie Jassigneux,,Samsung S8,Android,215,,Simple,26,1,19,136,,simple
+24,Marie Jassigneux,,Samsung S8,Android,216,,Gesture,19,0,16,96,,simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,217,,Gesture,18,2,14,94,"Pas pratique du tout, Pas intuitif",simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,218,,Predictive,23,4,21,133,"Ne fonctionnait pas avec le clavier de base, installation de SwiftKey, temps d'adaptation",simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,219,,Simple,28,1,27,150,Des mots avec beaucoup d'accents,simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,220,,Predictive,25,0,19,127,,simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,221,,Gesture,19,3,19,106,,simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,222,,Simple,22,1,16,114,,simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,223,,Gesture,17,4,17,96,,simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,224,,Predictive,25,4,22,139,,simple
+25,Pierre-Henri Chupin,,Iphone X,IOS,225,,Simple,31,4,31,181,,simple
+26,Antoine Poloce,,Sony Xperia,Android,226,,Simple,10,2,10,49,,simple
+26,Antoine Poloce,,Sony Xperia,Android,227,,Gesture,10,0,10,49,,simple
+26,Antoine Poloce,,Sony Xperia,Android,228,,Predictive,7,0,7,33,,simple
+26,Antoine Poloce,,Sony Xperia,Android,229,,Gesture,12,0,11,58,,simple
+26,Antoine Poloce,,Sony Xperia,Android,230,,Simple,17,0,15,85,,simple
+26,Antoine Poloce,,Sony Xperia,Android,231,,Predictive,8,0,8,42,,simple
+26,Antoine Poloce,,Sony Xperia,Android,232,,Simple,13,0,10,65,,simple
+26,Antoine Poloce,,Sony Xperia,Android,233,,Gesture,15,1,13,75,,simple
+26,Antoine Poloce,,Sony Xperia,Android,234,,Predictive,10,0,10,49,,simple
+27,William Bamba,,Samsung S8,Android,235,,Predictive,26,8,27,134,"Tres lent sur mon portable,freeze",predictive
+27,William Bamba,,Samsung S8,Android,236,,Simple,22,4,27,125,,predictive
+27,William Bamba,,Samsung S8,Android,237,,Gesture,14,2,14,86,,predictive
+27,William Bamba,,Samsung S8,Android,238,,Simple,10,2,8,55,,predictive
+27,William Bamba,,Samsung S8,Android,239,,Predictive,39,6,35,224,Sur clavier ordi,predictive
+27,William Bamba,,Samsung S8,Android,240,,Gesture,10,3,9,49,,predictive
+27,William Bamba,,Samsung S8,Android,241,,Predictive,18,2,17,112,,predictive
+27,William Bamba,,Samsung S8,Android,242,,Simple,11,3,9,67,,predictive
+27,,,,,243,,Gesture,,,,,,
+28,,,,,244,,Gesture,,,,,,
+28,,,,,245,,Predictive,,,,,,
+28,,,,,246,,Simple,,,,,,
+28,,,,,247,,Predictive,,,,,,
+28,,,,,248,,Gesture,,,,,,
+28,,,,,249,,Simple,,,,,,
+28,,,,,250,,Gesture,,,,,,
+28,,,,,251,,Predictive,,,,,,
+28,,,,,252,,Simple,,,,,,
+29,,,,,253,,Simple,,,,,,
+29,,,,,254,,Gesture,,,,,,
+29,,,,,255,,Predictive,,,,,,
+29,,,,,256,,Gesture,,,,,,
+29,,,,,257,,Simple,,,,,,
+29,,,,,258,,Predictive,,,,,,
+29,,,,,259,,Simple,,,,,,
+29,,,,,260,,Gesture,,,,,,
+29,,,,,261,,Predictive,,,,,,
+30,,,,,262,,Predictive,,,,,,
+30,,,,,263,,Simple,,,,,,
+30,,,,,264,,Gesture,,,,,,
+30,,,,,265,,Simple,,,,,,
+30,,,,,266,,Predictive,,,,,,
+30,,,,,267,,Gesture,,,,,,
+30,,,,,268,,Predictive,,,,,,
+30,,,,,269,,Simple,,,,,,
+30,,,,,270,,Gesture,,,,,,
+31,,,,,271,,Gesture,,,,,,
+31,,,,,272,,Predictive,,,,,,
+31,,,,,273,,Simple,,,,,,
+31,,,,,274,,Predictive,,,,,,
+31,,,,,275,,Gesture,,,,,,
+31,,,,,276,,Simple,,,,,,
+31,,,,,277,,Gesture,,,,,,
+31,,,,,278,,Predictive,,,,,,
+31,,,,,279,,Simple,,,,,,
+32,,,,,280,,Simple,,,,,,
+32,,,,,281,,Gesture,,,,,,
+32,,,,,282,,Predictive,,,,,,
+32,,,,,283,,Gesture,,,,,,
+32,,,,,284,,Simple,,,,,,
+32,,,,,285,,Predictive,,,,,,
+32,,,,,286,,Simple,,,,,,
+32,,,,,287,,Gesture,,,,,,
+32,,,,,288,,Predictive,,,,,,
+33,,,,,289,,Nabil Lamrabet,,,,,,
+33,,,,,290,,Simple,,,,,,
+33,,,,,291,,Gesture,,,,,,
+33,,,,,292,,Simple,,,,,,
+33,,,,,293,,Predictive,,,,,,
+33,,,,,294,,Gesture,,,,,,
+33,,,,,295,,Predictive,,,,,,
+33,,,,,296,,Simple,,,,,,
+33,,,,,297,,Gesture,,,,,,
+34,,,,,298,,Gesture,,,,,,
+34,,,,,299,,Predictive,,,,,,
+34,,,,,300,,Simple,,,,,,
+34,,,,,301,,Predictive,,,,,,
+34,,,,,302,,Gesture,,,,,,
+34,,,,,303,,Simple,,,,,,
+34,,,,,304,,Gesture,,,,,,
+34,,,,,305,,Predictive,,,,,,
+34,,,,,306,,Simple,,,,,,
+35,,,,,307,,Simple,,,,,,
+35,,,,,308,,Gesture,,,,,,
+35,,,,,309,,Predictive,,,,,,
+35,,,,,310,,Gesture,,,,,,
+35,,,,,311,,Simple,,,,,,
+35,,,,,312,,Predictive,,,,,,
+35,,,,,313,,Simple,,,,,,
+35,,,,,314,,Gesture,,,,,,
+35,,,,,315,,Predictive,,,,,,
+36,,,,,316,,Predictive,,,,,,
+36,,,,,317,,Simple,,,,,,
+36,,,,,318,,Gesture,,,,,,
+36,,,,,319,,Simple,,,,,,
+36,,,,,320,,Predictive,,,,,,
+36,,,,,321,,Gesture,,,,,,
+36,,,,,322,,Predictive,,,,,,
+36,,,,,323,,Simple,,,,,,
+36,,,,,324,,Gesture,,,,,,
